@@ -25,8 +25,8 @@ Opcja 1 – uruchomienie z Qt Creator:
 
 
 Opcja 2 – uruchomienie wersji Release:
-1. Zbuduj projekt w Qt Creator w trybie „Release”.
-2. Przejdź do katalogu 'release/'
+1. Pobierz plik release.rar
+2. Rozpakuj
 3. Uruchom plik 'Aplikacjapogoda.exe' 
 
 AUTOR:
