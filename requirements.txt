@@ -1,0 +1,18 @@
+REQUIREMENTS - Aplikacja pogodowa
+
+System Operacyjny:
+- Windows 10
+
+Środowisko programistyczne:
+- Qt 6.8.2 (Qt Creator + QtWidgets)
+- Kompilator MSVC (Microsoft Visual C++) w wersji 2022 (x64)
+
+Narzędzia dodatkowe:
+- Doxygen 1.9.8
+- Windeployqt
+
+Biblioteki Qt:
+- QtCore
+- QtNetwork
+- QtWidgets
+- QtCharts
